@@ -15,6 +15,10 @@ SkillBuilder is a production-grade suite of **36 specialized Agent Skills**, the
   <img src="assets/skillbuilder-workflow-animation.svg" alt="SkillBuilder Universal AI Workflow Animation" width="100%" />
 </p>
 
+## Website Example
+
+The [CICS Santa Cruz website](examples/cics-santa-cruz/README.md) is a standalone, responsive React project included as a SkillBuilder-built example.
+
 ---
 
 ## Operating Philosophy

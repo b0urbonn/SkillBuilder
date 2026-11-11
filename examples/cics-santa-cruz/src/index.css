@@ -1,0 +1,3 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600;700&display=swap');
+:root{font-family:Roboto,Arial,sans-serif;color:#252a25;background:#fff;font-synthesis:none;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;min-width:320px;font-family:inherit}button,a{font:inherit;color:inherit}a{text-decoration:none}button{cursor:pointer}::selection{background:#d8edc4;color:#233522}a:focus-visible,button:focus-visible{outline:2px solid #548a31;outline-offset:3px}@media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;transition-duration:.01ms!important}}
